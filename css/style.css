@@ -1234,7 +1234,7 @@
  }
  
  .main-slider .nav-style-one .owl-nav .owl-prev {
-     left: 70px;
+     left: 5px;
  }
  
  .main-slider .owl-nav .owl-prev {
@@ -1274,7 +1274,7 @@
  }
  
  .main-slider .nav-style-one .owl-nav .owl-next {
-     right: 70px;
+     right: 5px;
  }
  
  .main-slider .owl-nav .owl-prev:hover,
@@ -2972,7 +2972,7 @@
  .main-footer .footer-bottom .right-content .footer-logo {
      position: relative;
      display: inline-block;
-     margin-right: 300px;
+     margin-right: 460px;
  }
  
  .main-footer .footer-bottom .right-content .footer-logo:before {
